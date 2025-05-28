@@ -5,6 +5,8 @@ import main.java.br.com.dio.persistence.migration.MigrationStrategy;
 
 import java.sql.SQLException;
 
+import br.com.dio.ui.MainMenu;
+
 import static main.java.br.com.dio.persistence.config.ConnectionConfig.getConnection;
 
 
